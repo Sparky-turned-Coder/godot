@@ -1,0 +1,25 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1754340058
+icon.svg::CompressedTexture2D/CompressedTexture2D::3100057718254678433::1754338539::1754338851::1::::<><><>0<>0<>4dacd7018b9825c82fbaa2536ca2a161<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Assets/::1753408037
+README.md::TextFile/TextFile::-1::1744386698::0::1::::<><><>0<>0<><>::
+::res://Assets/art/::1754338851
+enemyFlyingAlt_1.png::CompressedTexture2D/CompressedTexture2D::2612107479528912986::1744386698::1754338851::1::::<><><>0<>0<>413f8a01d1f93fea0ec21ddb50cbbef5<>res://.godot/imported/enemyFlyingAlt_1.png-c0e22111ca69846b985010ad1ef2c7e3.ctex::
+enemyFlyingAlt_2.png::CompressedTexture2D/CompressedTexture2D::3487505044140095858::1744386698::1754338851::1::::<><><>0<>0<>3cb28783e34f8375d52c12dda365badb<>res://.godot/imported/enemyFlyingAlt_2.png-a6b07404ca7ce537e03c48d5ec755b29.ctex::
+enemySwimming_1.png::CompressedTexture2D/CompressedTexture2D::3927109654362022899::1744386698::1754338851::1::::<><><>0<>0<>65ea18b702cc0b280cd927d0fd32e4ed<>res://.godot/imported/enemySwimming_1.png-626535f7f773fa64ebd8e426fab9bfd7.ctex::
+enemySwimming_2.png::CompressedTexture2D/CompressedTexture2D::3933732990511895708::1744386698::1754338851::1::::<><><>0<>0<>66ee026f0b5f2f8db2bede1fb1c609f4<>res://.godot/imported/enemySwimming_2.png-00153ce9172a37ab61debd2e24dd671d.ctex::
+enemyWalking_1.png::CompressedTexture2D/CompressedTexture2D::5236400364455343797::1744386698::1754338851::1::::<><><>0<>0<>ce6b3782b73bce71127b26b83e9445ec<>res://.godot/imported/enemyWalking_1.png-95a964ad305187e328852058421af918.ctex::
+enemyWalking_2.png::CompressedTexture2D/CompressedTexture2D::7704287156350518587::1744386698::1754338851::1::::<><><>0<>0<>520fa30b317add94ee5b848b0cb68322<>res://.godot/imported/enemyWalking_2.png-b88f5ca299aefc46138c1917fb1e6b5c.ctex::
+gameover.wav::AudioStreamWAV/AudioStreamWAV::6902922768882088232::1744386698::1754338851::1::::<><><>0<>0<>a9fc23629ef5c45541350fc9bea11245<>res://.godot/imported/gameover.wav-f1f5f29bbffc975accdb7737bdbc4871.sample::
+House In a Forest Loop.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::8205346506764022897::1744386698::1754338851::1::::<><><>0<>0<>740927fa17f3b84de3a834957d9bd857<>res://.godot/imported/House In a Forest Loop.ogg-074a79c39ff6b8c8776f51b7e47d7327.oggvorbisstr::
+playerGrey_up1.png::CompressedTexture2D/CompressedTexture2D::1305517521001063892::1744386698::1754338851::1::::<><><>0<>0<>99cfb66a1ca6643aa1f6f7576a21f2ad<>res://.godot/imported/playerGrey_up1.png-3504d680aea98f30dcc46d029dc094a1.ctex::
+playerGrey_up2.png::CompressedTexture2D/CompressedTexture2D::8178570627838742042::1744386698::1754338851::1::::<><><>0<>0<>dcdee6f2707b97106d58c3510d31928f<>res://.godot/imported/playerGrey_up2.png-9996f9ce522294d13e1fb8b1a5c1a385.ctex::
+playerGrey_walk1.png::CompressedTexture2D/CompressedTexture2D::6972571490942905148::1744386698::1754338851::1::::<><><>0<>0<>9526ced464afe38d4161402ad3f840f3<>res://.godot/imported/playerGrey_walk1.png-c746af190c4cb48707fecd178608e783.ctex::
+playerGrey_walk2.png::CompressedTexture2D/CompressedTexture2D::8466189081454720566::1744386698::1754338851::1::::<><><>0<>0<>2629f81a9d5cc3f55d4036cb3028ec62<>res://.godot/imported/playerGrey_walk2.png-8e4e36c76f6fc94699dcc4e3b71e1d9f.ctex::
+::res://Assets/fonts/::1754338851
+FONTLOG.txt::TextFile/TextFile::-1::1744386698::0::1::::<><><>0<>0<><>::
+LICENSE.txt::TextFile/TextFile::-1::1744386698::0::1::::<><><>0<>0<><>::
+Xolonium-Regular.ttf::FontFile/FontFile::1878148535328418648::1744386698::1754338851::1::::<><><>0<>0<>6d3d78aaedae81a7e5f2f6fabf7226ed<>res://.godot/imported/Xolonium-Regular.ttf-1f22d0de995a0c3d573c30414a9a19bf.fontdata::
+::res://Scenes/::1754340052
+player.gd::GDScript::9151706160848744817::1754339952::0::1::::<>Area2D<><>0<>0<><>::
+player.tscn::PackedScene::6085463526918771925::1754340052::0::1::::<><><>0<>0<><>::uid://d3nfi7qhdodkr::::res://Scenes/player.gd<>uid://sunxhmbrgnyq::::res://Assets/art/playerGrey_up1.png<>uid://dor04matqsb2q::::res://Assets/art/playerGrey_up2.png<>uid://c6lth7hlb5dl1::::res://Assets/art/playerGrey_walk1.png<>uid://dsvc5rhl628ri::::res://Assets/art/playerGrey_walk2.png

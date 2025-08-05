@@ -1,0 +1,8 @@
+res://Scenes/player.tscn
+res://Scenes/player.gd
+res://Scenes/mob.tscn
+res://Scenes/mob.gd
+res://Scenes/main.tscn
+res://Scenes/main.gd
+res://Scenes/hud.tscn
+res://Scenes/hud.gd
