@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1754614052
+::res://::1755023622
 export_presets.cfg::TextFile/TextFile::-1::1754441808::0::1::::<><><>0<>0<><>::
 playerGrey_walk1.png::CompressedTexture2D/CompressedTexture2D::3994900761026941874::1744386698::1754614038::1::::<><><>0<>0<>6a0d21cbc18a748ccf5457fa2e410c20<>res://.godot/imported/playerGrey_walk1.png-cc737e5947095223c3494468704ca885.ctex::
 ::res://Assets/::1753408037
@@ -24,7 +24,7 @@ LICENSE.txt::TextFile/TextFile::-1::1744386698::0::1::::<><><>0<>0<><>::
 Xolonium-Regular.ttf::FontFile/FontFile::1878148535328418648::1744386698::1754338851::1::::<><><>0<>0<>6d3d78aaedae81a7e5f2f6fabf7226ed<>res://.godot/imported/Xolonium-Regular.ttf-1f22d0de995a0c3d573c30414a9a19bf.fontdata::
 ::res://Scenes/::1754614040
 hud.gd::GDScript/GDScript::1880724256956628128::1754439219::0::1::::<>CanvasLayer<><>0<>0<><>::
-hud.tscn::PackedScene::9148191769954600014::1754614040::0::1::::<><><>0<>0<><>::uid://1013j08m4jfc::::res://Assets/fonts/Xolonium-Regular.ttf<>uid://12bivk18i5eq::::res://Scenes/hud.gd
+hud.tscn::PackedScene/PackedScene::9148191769954600014::1754614040::0::1::::<><><>0<>0<><>::uid://1013j08m4jfc::::res://Assets/fonts/Xolonium-Regular.ttf<>uid://12bivk18i5eq::::res://Scenes/hud.gd
 main.gd::GDScript/GDScript::7458636676101554806::1754441304::0::1::::<>Node<><>0<>0<><>::
 main.tscn::PackedScene/PackedScene::4598922910917787181::1754441309::0::1::::<><><>0<>0<><>::uid://dejawkyuaec3w::::res://Scenes/main.gd<>uid://csx3xvv11axkf::::res://Scenes/player.tscn<>uid://c1ym437bjaxrv::::res://Scenes/mob.tscn<>uid://nkwnyiswgl53::::res://Assets/art/GameBg.png<>uid://d3lpm8ps2vkgc::::res://Scenes/hud.tscn<>uid://c5l3enw3ti1vg::::res://Assets/art/gameover.wav
 mob.gd::GDScript/GDScript::2580965807466791123::1754345006::0::1::::<>RigidBody2D<><>0<>0<><>::
