@@ -11,15 +11,22 @@ func _ready():
 func _process(delta: float) -> void:
 	pass
 
-
 func game_over():
+	$Music.stop()
+	$DeathSound.play()
 	$ScoreTimer.stop()
 	$MobTimer.stop()
+	$HUD.show_game_over()
 	
 func new_game():
+	$Music.play()
 	score = 0
 	$Player.start($StartPosition.position)
 	$StartTimer.start()
+	$HUD.update_score(score)
+	$HUD.show_message("Get Ready")
+	get_tree().call_group("mobs", "queue_free")
+	
 
 # Let's discuss the code below with Chat GPT and see if we can better understand what is going on!!!
 func _on_mob_timer_timeout():
@@ -50,7 +57,7 @@ func _on_mob_timer_timeout():
 
 func _on_score_timer_timeout():
 	score += 1
-
+	$HUD.update_score(score)
 
 func _on_start_timer_timeout():
 	$MobTimer.start()

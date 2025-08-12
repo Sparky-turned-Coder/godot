@@ -19,7 +19,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"fly",
-"speed": 3.0
+"speed": 4.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -45,21 +45,22 @@ animations = [{
 }]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_7rqy1"]
-radius = 35.0
+radius = 14.8661
 
-[node name="Mob" type="RigidBody2D"]
+[node name="Mob" type="RigidBody2D" groups=["mobs"]]
 collision_mask = 0
 gravity_scale = 0.0
 script = ExtResource("1_o80aq")
 metadata/_edit_group_ = true
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
-scale = Vector2(0.75, 0.75)
+scale = Vector2(0.4, 0.4)
 sprite_frames = SubResource("SpriteFrames_ganfo")
 animation = &"fly"
+speed_scale = 2.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(10, 0)
+position = Vector2(11, 0)
 rotation = 1.5708
 shape = SubResource("CircleShape2D_7rqy1")
 metadata/_edit_group_ = true
