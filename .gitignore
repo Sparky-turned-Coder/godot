@@ -1,0 +1,32 @@
+# Godot-specific
+.import/
+.export/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Swap files
+*.swp
+*.swo
+
+# Build outputs
+export/
+build/
+bin/
+
+# Logs
+*.log
+
+# Backup files
+*.tmp
+*.bak
+*~
+
+# Godot editor metadata
+.editor_state
+.cache/
+
+# Mono-specific (if using C#)
+.mono/
+data_mono/
